@@ -46,47 +46,7 @@ public class CERTIFICADO {
         
         
         
-        
-        
-        
-      /*  
-        String n1 = "Tiao Carrero";
-        int i1 = 30;
-        String n2 = "Maria Bonita";
-        int i2 = 19;
-        String n3 = "Jimi Hendrix";
-        int i3 = 38;
-        
-        
-        System.out.println("=======================\n");
-        System.out.println(" Relatorio de clientes\n");
-        System.out.println("=======================\n");
-        
-        System.out.println(n1 + " -> " + i1);
-        System.out.println(n2 + " -> " + i2);
-        System.out.println(n3 + " -> " + i3);
-        
-        
-        System.out.print("\n" + n1);
-        System.out.print(" -> ");
-        System.out.print(i1);
-        System.out.print("\n" + n2);
-        System.out.print(" -> ");
-        System.out.print(i2);
-        System.out.print("\n" + n3);
-        System.out.print(" -> ");
-        System.out.print(i3 + "\n");
-        
-        
-        System.out.printf("\n%s -> %d\n",n1,i1);
-        System.out.printf("%s -> %d\n",n2,i2);
-        System.out.printf("%s -> %d\n",n3,i3);
-        */
-        
-      
-      
-        
-        // TODO code application logic here
+ 
     }
     
 }
